@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">filmSearch</string>
+    <string name="search_hint">Поиск по названию фильма</string>
+    <string name="no_connection">Нам не удалось обработать ваш запрос. Попробуйте ещё раз</string>
+</resources>
